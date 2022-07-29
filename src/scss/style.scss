@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import 'calculator';
+
+body{
+    background-color: rgb(243, 239, 239);
+     
+   
+}
+
+
+@media (max-width:768px){
+   
+    
+}
+@media (max-width:768px){
+    body{
+   background-color: green;}
+    
+}
